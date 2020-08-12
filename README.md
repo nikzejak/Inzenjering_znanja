@@ -1,4 +1,7 @@
 # TIM 2
+
+MedCare app for orthopedics
+
 Projekat iz predmeta Inženjering znanja 2019/2020
 
 Veljko Vuković RA52/2016, 
